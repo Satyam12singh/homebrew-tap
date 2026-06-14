@@ -1,10 +1,10 @@
 class RepolensCli < Formula
   desc "Instant clarity on any codebase — navigate imports, trace functions, and get AI answers in one terminal view"
   homepage "https://github.com/Satyam12singh/repolens"
-  url "https://files.pythonhosted.org/packages/9f/7b/7b73c449cfd89e2d289ba58747801c3d00dfe034620eff9ef3a204a3bf78/repolens_cli-0.1.1.tar.gz"
-  sha256 "ca07e9c25a62613154d4121922c3d93b573bf04df8c9182f63e717dfc6245688"
+  url "https://files.pythonhosted.org/packages/83/b3/7d8e13d36072da095df9e42bfca7a1ecc2245390b8b29bf4503a845fef88/repolens_cli-0.2.0.tar.gz"
+  sha256 "723cba65b564cf565db60f43f814b7d35a83921b63727f76073e4a62fd141f28"
   license "MIT"
-  version "0.1.1"
+  version "0.2.0"
 
   depends_on "python@3.12"
 
